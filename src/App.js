@@ -16,7 +16,7 @@ function App() {
 
         <h3>📫 Get in Touch</h3>
         <p>
-          <a href="mailto:naved.shaikh@scania.com">naved.shaikh@scania.com</a><br />
+          <a href="mailto:naved.shaikh@scania.com">naved.shaikh</a><br />
           <a href="https://linkedin.com/in/yourprofile">LinkedIn</a> | <a href="https://github.com/yourusername">GitHub</a>
         </p>
       </div>
